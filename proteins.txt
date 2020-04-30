@@ -4,7 +4,11 @@ another thing else
 something else
 >>>>>>> 7c419c087e9ae48e8d16e7930dd6411e61756ff1
 
+<<<<<<< HEAD
 some stuffs
+=======
+more changes
+>>>>>>> 7d91b4a0e1131ad7c45eb4cad8535b2b76feef5b
 
 Lysozyme Chicken LYSC_CHICK P00698
 Lysozyme Human LYSC_HUMAN P61626
